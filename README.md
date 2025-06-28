@@ -1,2 +1,3 @@
-# SQL_DATA
-Database description the 0 or expert 
+# SQL_
+base de datos desde 0 en terminal 
+
